@@ -75,13 +75,13 @@
 
 ## Meus Projetos / My Projects
 
-### Sistema Doar Oficial (Plataforma de Doações)
+### Sistema Doar + (Plataforma de Doações)
 
-* [![React Doar Oficial](https://img.shields.io/badge/Repositório-React_Doar_Oficial-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/caiquefgoncalves/react-doar-oficial)
+* [![React Doar +](https://img.shields.io/badge/Repositório-React_Doar_Oficial-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/caiquefgoncalves/react-doar-oficial)
   * **PT:** Interface web do usuário. É o frontend que consome a API do sistema, permitindo que os usuários naveguem pelas campanhas e realizem doações de forma intuitiva.
   * **EN:** User interface. The frontend that consumes the system's API, allowing users to browse campaigns and make donations intuitively.
 
-* [![API Doar Oficial](https://img.shields.io/badge/Repositório-API_Doar_Oficial-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/caiquefgoncalves/api-doar-oficial)
+* [![API Doar +](https://img.shields.io/badge/Repositório-API_Doar_Oficial-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/caiquefgoncalves/api-doar-oficial)
   * **PT:** O cérebro por trás do frontend. Backend em Python que gerencia as regras de negócio, rotas (endpoints) de cadastro e o banco de dados das doações.
   * **EN:** The brain behind the frontend. Python backend that manages business rules, registration endpoints, and the donation database.
 
