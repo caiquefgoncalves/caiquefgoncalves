@@ -76,13 +76,11 @@
 
 ### Sistema Doar Oficial (Plataforma de Doações)
 
-* **[Repositório: React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)**
-  * **Tecnologia:** `React`
+* [![React Doar Oficial](https://img.shields.io/badge/Repositório-React_Doar_Oficial-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/caiquefgoncalves/react-doar-oficial)
   * **PT:** Interface web do usuário. É o frontend que consome a API do sistema, permitindo que os usuários naveguem pelas campanhas e realizem doações de forma intuitiva.
   * **EN:** User interface. The frontend that consumes the system's API, allowing users to browse campaigns and make donations intuitively.
 
-* **[Repositório: API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)**
-  * **Tecnologia:** `Python`
+* [![API Doar Oficial](https://img.shields.io/badge/Repositório-API_Doar_Oficial-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/caiquefgoncalves/api-doar-oficial)
   * **PT:** O cérebro por trás do frontend. Backend em Python que gerencia as regras de negócio, rotas (endpoints) de cadastro e o banco de dados das doações.
   * **EN:** The brain behind the frontend. Python backend that manages business rules, registration endpoints, and the donation database.
 
@@ -90,13 +88,11 @@
 
 ### Sistema Book Plus / Biblioteca
 
-* **[Repositório: Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)**
-  * **Tecnologia:** `React`
+* [![Book Plus com React](https://img.shields.io/badge/Repositório-Book_Plus_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/caiquefgoncalves/book_plus_com_react)
   * **PT:** Aplicação visual para gestão de livros. Os usuários podem consultar o catálogo e interagir com o acervo através desta interface alimentada pela API Biblioteca.
   * **EN:** Visual application for book management. Users can check the catalog and interact with the collection through this interface powered by the Library API.
 
-* **[Repositório: API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)**
-  * **Tecnologia:** `Python`
+* [![API Biblioteca](https://img.shields.io/badge/Repositório-API_Biblioteca-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/caiquefgoncalves/API_BIBLIOTECA)
   * **PT:** API estruturada em Python que fornece os dados em formato JSON para o React. Controla o acervo, status de empréstimos e persistência de dados no banco.
   * **EN:** Structured Python API that provides JSON data to React. It controls the collection, loan status, and database data persistence.
 
@@ -104,10 +100,10 @@
 
 ### Projetos em Equipe / Group Projects
 
-* **[Repositório: Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)**
+* [![Solidez Capital](https://img.shields.io/badge/Projeto-Solidez_Capital-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkawanami09/Solidez-Capital)
   * **PT/EN:** Projeto colaborativo focado no setor financeiro/investimentos. / Collaborative project focused on the financial/investment sector.
 
-* **[Repositório: Looma](https://github.com/GustavoPrescinotti/Looma)**
+* [![Looma](https://img.shields.io/badge/Projeto-Looma-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoPrescinotti/Looma)
   * **PT/EN:** Aplicação desenvolvida em equipe, testando metodologias ágeis de código e organização. / Application developed jointly, testing agile coding and organization methodologies.
 
 ---
