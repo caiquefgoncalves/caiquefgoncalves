@@ -1,10 +1,6 @@
 # Caique Fachini Gonçalves | Systems Developer
 
 <p align="center">
-  <img src="https://images6.alphacoders.com/112/1125272.jpg" alt="Record of Ragnarok Banner" width="100%" style="border-radius: 8px;" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20%2F%20In%20Development-green?style=for-the-badge" alt="Status">
 </p>
 
