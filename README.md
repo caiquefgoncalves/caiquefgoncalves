@@ -6,29 +6,27 @@
 
 ---
 
-## Sobre Mim
-Sou Desenvolvedor de Sistemas em formação na Escola SENAI "Avak Bedouian" (Birigui-SP). Tenho como foco a criação de soluções tecnológicas eficientes, atuando tanto no desenvolvimento de APIs no backend quanto na construção de interfaces de usuário no frontend.
+## 👨‍💻 Sobre Mim / About Me
 
-* **Educação:** Técnico em Desenvolvimento de Sistemas — Escola SENAI "Avak Bedouian".
-* **Backend:** Conhecimento intermediário em Python, focado na arquitetura e criação de APIs RESTful.
-* **Frontend:** Desenvolvimento de aplicações dinâmicas com React (nível intermediário).
-* **Banco de Dados:** Modelagem e persistência utilizando o banco de dados Firebird.
-* **Organização:** Gerenciamento ágil com o Trello para coordenar as táticas de desenvolvimento.
+<p align="left">
+  <img src="https://img.shields.io/badge/Técnico_em_Desenvolvimento-1E1E1E?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Desenvolvedor" />
+  <img src="https://img.shields.io/badge/Aluno_SENAI-FF0000?style=for-the-badge&logo=senai&logoColor=white" alt="SENAI" />
+  <img src="https://img.shields.io/badge/Fullstack_Trainee-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Trainee" />
+</p>
 
----
+**[PT]** Sou Desenvolvedor de Sistemas em formação na Escola SENAI "Avak Bedouian" (Birigui-SP). Tenho como foco a criação de soluções tecnológicas eficientes, atuando tanto no desenvolvimento de APIs no backend quanto na construção de interfaces de usuário dinâmicas no frontend. Tenho facilidade para integrar sistemas completos (Fullstack).
 
-## About Me
-I am a Systems Developer training at Escola SENAI "Avak Bedouian" (Birigui-SP). My focus is on creating efficient technological solutions, working both on backend API development and building frontend user interfaces.
+**[EN]** I am a Systems Developer training at Escola SENAI "Avak Bedouian" (Birigui-SP). My focus is on creating efficient technological solutions, working on backend API development and building dynamic user interfaces on the frontend. I have a knack for integrating complete systems (Fullstack).
 
-* **Education:** Systems Development Technician — Escola SENAI "Avak Bedouian".
-* **Backend:** Intermediate knowledge in Python, focusing on architecture and RESTful API creation.
-* **Frontend:** Developing dynamic applications with React (intermediate level).
-* **Database:** Data control and manipulation using the Firebird relational database.
-* **Organization:** Agile management with Trello to coordinate development tactics.
+* **Educação / Education:** Técnico em Desenvolvimento de Sistemas — SENAI.
+* **Backend:** Arquitetura e criação de APIs RESTful utilizando Python.
+* **Frontend:** Desenvolvimento de SPAs (Single Page Applications) com React.
+* **Banco de Dados / Database:** Modelagem e manipulação usando Firebird.
+* **Organização / Organization:** Gestão de projetos ágeis com Trello.
 
 ---
 
-## Tecnologias e Ferramentas / Technologies & Tools
+## 🛠️ Tecnologias e Ferramentas / Technologies & Tools
 
 ### Linguagens e Frameworks / Core Techs
 <p align="left">
@@ -39,7 +37,7 @@ I am a Systems Developer training at Escola SENAI "Avak Bedouian" (Birigui-SP). 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Ambientes de Desenvolvimento e Controle / IDEs & Version Control
+### IDEs & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/WEBSTORM-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
@@ -47,68 +45,63 @@ I am a Systems Developer training at Escola SENAI "Avak Bedouian" (Birigui-SP). 
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Banco de Dados e Organização / Database & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/FIREBIRD-002C5B?style=for-the-badge&logo=database&logoColor=white" alt="Firebird DB" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/TRELLO-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-</p>
-
 ---
 
-## Estatísticas / GitHub Stats
+## 📊 Estatísticas / GitHub Stats
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🇬🇧 English Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=caiquefgoncalves&show_icons=true&theme=dark&title_color=ff3e3e&icon_color=ffd700&text_color=ffffff&bg_color=0f0f14&include_all_commits=true&count_private=true" alt="GitHub Stats EN" width="100%"/>
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquefgoncalves&layout=compact&theme=dark&title_color=ff3e3e&icon_color=ffd700&text_color=ffffff&bg_color=0f0f14" alt="Top Languages EN" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h3>🇧🇷 Estatísticas em Português</h3>
+      <h3>🇧🇷 Estatísticas (PT-BR)</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=caiquefgoncalves&show_icons=true&theme=dark&title_color=ff3e3e&icon_color=ffd700&text_color=ffffff&bg_color=0f0f14&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats PT" width="100%"/>
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquefgoncalves&layout=compact&theme=dark&title_color=ff3e3e&icon_color=ffd700&text_color=ffffff&bg_color=0f0f14&locale=pt-br" alt="Top Languages PT" width="100%"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## Meus Projetos / My Projects
+## 🚀 Meus Projetos / My Projects
 
-### Frontend (React)
-* **[React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)**
-    * *PT:* Interface web interativa e responsiva construída em React para o projeto Doar Oficial.
-    * *EN:* Interactive and responsive web interface built with React for the Doar Oficial project.
-* **[Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)**
-    * *PT:* Aplicação frontend voltada para o projeto Book Plus utilizando o ecossistema do React.
-    * *EN:* Frontend web application built for the Book Plus project using the React ecosystem.
+### 🤝 Sistema Doar Oficial (Plataforma de Doações)
+* **[React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+    * *PT:* Interface web do usuário. É o frontend que consome a API do sistema, permitindo que os usuários naveguem pelas campanhas e realizem doações de forma intuitiva.
+    * *EN:* User interface. The frontend that consumes the system's API, allowing users to browse campaigns and make donations intuitively.
+* **[API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+    * *PT:* O "cérebro" por trás do frontend. Backend em Python que gerencia as regras de negócio, rotas (endpoints) de cadastro e o banco de dados das doações.
+    * *EN:* The "brain" behind the frontend. Python backend that manages business rules, registration endpoints, and the donation database.
 
-### Backend & APIs (Python)
-* **[API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)**
-    * *PT:* API robusta desenvolvida em Python para gerenciar as regras de negócio e dados da plataforma Doar Oficial.
-    * *EN:* Robust API developed in Python to handle business logic and data for the Doar Oficial platform.
-* **[API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)**
-    * *PT:* Sistema de API backend estruturado para o gerenciamento e controle de acervos de biblioteca.
-    * *EN:* Backend API system structured for library collection management and control.
+### 📚 Sistema Book Plus / Biblioteca
+* **[Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+    * *PT:* Aplicação visual para gestão de livros. Os usuários podem consultar o catálogo e interagir com o acervo através desta interface alimentada pela API Biblioteca.
+    * *EN:* Visual application for book management. Users can check the catalog and interact with the collection through this interface powered by the Library API.
+* **[API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+    * *PT:* API estruturada em Python que fornece os dados em formato JSON para o React. Controla o acervo, status de empréstimos e persistência de dados no banco.
+    * *EN:* Structured Python API that provides JSON data to React. It controls the collection, loan status, and database data persistence.
 
-### Projetos em Equipe / Group Projects
-* **[Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)**
-    * *PT:* Projeto colaborativo focado no setor financeiro/investimentos desenvolvido em equipe.
-    * *EN:* Collaborative project focused on the financial/investment sector developed as a team.
-* **[Looma](https://github.com/GustavoPrescinotti/Looma)**
-    * *PT:* Aplicação desenvolvida em conjunto, aplicando metodologias de organização de projetos.
-    * *EN:* Application developed jointly, applying project organization methodologies.
+### 👥 Projetos em Equipe / Group Projects
+* **[Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)** ![Collab](https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square)
+    * *PT/EN:* Projeto colaborativo focado no setor financeiro/investimentos. / Collaborative project focused on the financial/investment sector.
+* **[Looma](https://github.com/GustavoPrescinotti/Looma)** ![Collab](https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square)
+    * *PT/EN:* Aplicação desenvolvida em equipe, testando metodologias ágeis de código e organização. / Application developed jointly, testing agile coding and organization methodologies.
 
 ---
 
-## Contato / Contact
+## 📬 Contato / Contact
 
-Se você deseja trocar uma ideia sobre desenvolvimento de sistemas ou falar sobre oportunidades:
+Sinta-se à vontade para entrar em contato para conversarmos sobre código, vagas e oportunidades! / *Feel free to reach out to talk about code, jobs, and opportunities!*
 
-* **E-mail Primário:** [caiquefg2612@gmail.com](mailto:caiquefg2612@gmail.com)
-* **E-mail Secundário:** [caiquefachinigoncalves@gmail.com](mailto:caiquefachinigoncalves@gmail.com)
-* **E-mail Terciário:** [caique.f.goncalves@aluno.senai.br](mailto:caique.f.goncalves@aluno.senai.br)
+<p align="left">
+  <a href="mailto:caiquefg2612@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail_Pessoal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:caique.f.goncalves@aluno.senai.br">
+    <img src="https://img.shields.io/badge/E--mail_SENAI-00599C?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="SENAI Mail" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
