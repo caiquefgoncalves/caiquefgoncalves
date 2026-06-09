@@ -102,14 +102,6 @@
 
 Se você deseja trocar uma ideia sobre desenvolvimento de sistemas ou falar sobre oportunidades: / *Feel free to reach out to talk about code, jobs, and opportunities!*
 
-<p align="left">
-  <a href="mailto:caiquefg2612@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail_Primário-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Primário" />
-  </a>
-  <a href="mailto:caiquefachinigoncalves@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail_Secundário-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Secundário" />
-  </a>
-  <a href="mailto:caique.f.goncalves@aluno.senai.br">
-    <img src="https://img.shields.io/badge/E--mail_Terciário-00599C?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="E-mail Terciário" />
-  </a>
-</p>
+* [![E-mail Primário](https://img.shields.io/badge/E--mail_Primário-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquefg2612@gmail.com) **caiquefg2612@gmail.com**
+* [![E-mail Secundário](https://img.shields.io/badge/E--mail_Secundário-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquefachinigoncalves@gmail.com) **caiquefachinigoncalves@gmail.com**
+* [![E-mail Terciário](https://img.shields.io/badge/E--mail_Terciário-00599C?style=for-the-badge&logo=microsoftacademic&logoColor=white)](mailto:caique.f.goncalves@aluno.senai.br) **caique.f.goncalves@aluno.senai.br**
