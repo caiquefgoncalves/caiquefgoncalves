@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim / About Me
+## Sobre Mim / About Me
 
 <p align="left">
   <img src="https://img.shields.io/badge/Técnico_em_Desenvolvimento-1E1E1E?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Desenvolvedor" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas / Technologies & Tools
+## Tecnologias e Ferramentas / Technologies & Tools
 
 ### Linguagens e Frameworks / Core Techs
 <p align="left">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### IDEs & Version Control
+### Ambientes e Controle de Versão / IDEs & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/WEBSTORM-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
@@ -45,9 +45,17 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+### Banco de Dados, APIs e Design / Data, APIs & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/FIREBIRD-002C5B?style=for-the-badge&logo=database&logoColor=white" alt="Firebird DB" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/TRELLO-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
+
 ---
 
-## 📊 Estatísticas / GitHub Stats
+## Estatísticas / GitHub Stats
 
 <table align="center" width="100%">
   <tr>
@@ -64,33 +72,33 @@
 
 ---
 
-## 🚀 Meus Projetos / My Projects
+## Meus Projetos / My Projects
 
-### 🤝 Sistema Doar Oficial (Plataforma de Doações)
-* **[React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+### Sistema Doar Oficial (Plataforma de Doações)
+* **[React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)** <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" alt="React Badge"/>
     * *PT:* Interface web do usuário. É o frontend que consome a API do sistema, permitindo que os usuários naveguem pelas campanhas e realizem doações de forma intuitiva.
     * *EN:* User interface. The frontend that consumes the system's API, allowing users to browse campaigns and make donations intuitively.
-* **[API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+* **[API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python Badge"/>
     * *PT:* O "cérebro" por trás do frontend. Backend em Python que gerencia as regras de negócio, rotas (endpoints) de cadastro e o banco de dados das doações.
     * *EN:* The "brain" behind the frontend. Python backend that manages business rules, registration endpoints, and the donation database.
 
-### 📚 Sistema Book Plus / Biblioteca
-* **[Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+### Sistema Book Plus / Biblioteca
+* **[Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)** <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" alt="React Badge"/>
     * *PT:* Aplicação visual para gestão de livros. Os usuários podem consultar o catálogo e interagir com o acervo através desta interface alimentada pela API Biblioteca.
     * *EN:* Visual application for book management. Users can check the catalog and interact with the collection through this interface powered by the Library API.
-* **[API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+* **[API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python Badge"/>
     * *PT:* API estruturada em Python que fornece os dados em formato JSON para o React. Controla o acervo, status de empréstimos e persistência de dados no banco.
     * *EN:* Structured Python API that provides JSON data to React. It controls the collection, loan status, and database data persistence.
 
-### 👥 Projetos em Equipe / Group Projects
-* **[Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)** ![Collab](https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square)
+### Projetos em Equipe / Group Projects
+* **[Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)** <img src="https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square" alt="Team Badge"/>
     * *PT/EN:* Projeto colaborativo focado no setor financeiro/investimentos. / Collaborative project focused on the financial/investment sector.
-* **[Looma](https://github.com/GustavoPrescinotti/Looma)** ![Collab](https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square)
+* **[Looma](https://github.com/GustavoPrescinotti/Looma)** <img src="https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square" alt="Team Badge"/>
     * *PT/EN:* Aplicação desenvolvida em equipe, testando metodologias ágeis de código e organização. / Application developed jointly, testing agile coding and organization methodologies.
 
 ---
 
-## 📬 Contato / Contact
+## Contato / Contact
 
 Sinta-se à vontade para entrar em contato para conversarmos sobre código, vagas e oportunidades! / *Feel free to reach out to talk about code, jobs, and opportunities!*
 
