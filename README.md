@@ -60,11 +60,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🇬🇧 English Stats</h3>
+      <h3>English Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=caiquefgoncalves&show_icons=true&theme=dark&title_color=ff3e3e&icon_color=ffd700&text_color=ffffff&bg_color=0f0f14&include_all_commits=true&count_private=true" alt="GitHub Stats EN" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h3>🇧🇷 Estatísticas (PT-BR)</h3>
+      <h3>Estatísticas (PT-BR)</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=caiquefgoncalves&show_icons=true&theme=dark&title_color=ff3e3e&icon_color=ffd700&text_color=ffffff&bg_color=0f0f14&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats PT" width="100%"/>
     </td>
   </tr>
@@ -100,16 +100,16 @@
 
 ## Contato / Contact
 
-Sinta-se à vontade para entrar em contato para conversarmos sobre código, vagas e oportunidades! / *Feel free to reach out to talk about code, jobs, and opportunities!*
+Se você deseja trocar uma ideia sobre desenvolvimento de sistemas ou falar sobre oportunidades: / *Feel free to reach out to talk about code, jobs, and opportunities!*
 
 <p align="left">
   <a href="mailto:caiquefg2612@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail_Pessoal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/E--mail_Primário-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Primário" />
+  </a>
+  <a href="mailto:caiquefachinigoncalves@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail_Secundário-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Secundário" />
   </a>
   <a href="mailto:caique.f.goncalves@aluno.senai.br">
-    <img src="https://img.shields.io/badge/E--mail_SENAI-00599C?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="SENAI Mail" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/E--mail_Terciário-00599C?style=for-the-badge&logo=microsoftacademic&logoColor=white" alt="E-mail Terciário" />
   </a>
 </p>
