@@ -75,33 +75,49 @@
 ## Meus Projetos / My Projects
 
 ### Sistema Doar Oficial (Plataforma de Doações)
-* **[React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)** <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" alt="React Badge"/>
-    * *PT:* Interface web do usuário. É o frontend que consome a API do sistema, permitindo que os usuários naveguem pelas campanhas e realizem doações de forma intuitiva.
-    * *EN:* User interface. The frontend that consumes the system's API, allowing users to browse campaigns and make donations intuitively.
-* **[API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python Badge"/>
-    * *PT:* O "cérebro" por trás do frontend. Backend em Python que gerencia as regras de negócio, rotas (endpoints) de cadastro e o banco de dados das doações.
-    * *EN:* The "brain" behind the frontend. Python backend that manages business rules, registration endpoints, and the donation database.
+
+* **[Repositório: React Doar Oficial](https://github.com/caiquefgoncalves/react-doar-oficial)**
+  * **Tecnologia:** `React`
+  * **PT:** Interface web do usuário. É o frontend que consome a API do sistema, permitindo que os usuários naveguem pelas campanhas e realizem doações de forma intuitiva.
+  * **EN:** User interface. The frontend that consumes the system's API, allowing users to browse campaigns and make donations intuitively.
+
+* **[Repositório: API Doar Oficial](https://github.com/caiquefgoncalves/api-doar-oficial)**
+  * **Tecnologia:** `Python`
+  * **PT:** O cérebro por trás do frontend. Backend em Python que gerencia as regras de negócio, rotas (endpoints) de cadastro e o banco de dados das doações.
+  * **EN:** The brain behind the frontend. Python backend that manages business rules, registration endpoints, and the donation database.
+
+---
 
 ### Sistema Book Plus / Biblioteca
-* **[Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)** <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" alt="React Badge"/>
-    * *PT:* Aplicação visual para gestão de livros. Os usuários podem consultar o catálogo e interagir com o acervo através desta interface alimentada pela API Biblioteca.
-    * *EN:* Visual application for book management. Users can check the catalog and interact with the collection through this interface powered by the Library API.
-* **[API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python Badge"/>
-    * *PT:* API estruturada em Python que fornece os dados em formato JSON para o React. Controla o acervo, status de empréstimos e persistência de dados no banco.
-    * *EN:* Structured Python API that provides JSON data to React. It controls the collection, loan status, and database data persistence.
+
+* **[Repositório: Book Plus com React](https://github.com/caiquefgoncalves/book_plus_com_react)**
+  * **Tecnologia:** `React`
+  * **PT:** Aplicação visual para gestão de livros. Os usuários podem consultar o catálogo e interagir com o acervo através desta interface alimentada pela API Biblioteca.
+  * **EN:** Visual application for book management. Users can check the catalog and interact with the collection through this interface powered by the Library API.
+
+* **[Repositório: API Biblioteca](https://github.com/caiquefgoncalves/API_BIBLIOTECA)**
+  * **Tecnologia:** `Python`
+  * **PT:** API estruturada em Python que fornece os dados em formato JSON para o React. Controla o acervo, status de empréstimos e persistência de dados no banco.
+  * **EN:** Structured Python API that provides JSON data to React. It controls the collection, loan status, and database data persistence.
+
+---
 
 ### Projetos em Equipe / Group Projects
-* **[Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)** <img src="https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square" alt="Team Badge"/>
-    * *PT/EN:* Projeto colaborativo focado no setor financeiro/investimentos. / Collaborative project focused on the financial/investment sector.
-* **[Looma](https://github.com/GustavoPrescinotti/Looma)** <img src="https://img.shields.io/badge/-Team_Project-4CAF50?style=flat-square" alt="Team Badge"/>
-    * *PT/EN:* Aplicação desenvolvida em equipe, testando metodologias ágeis de código e organização. / Application developed jointly, testing agile coding and organization methodologies.
+
+* **[Repositório: Solidez Capital](https://github.com/gkawanami09/Solidez-Capital)**
+  * **PT/EN:** Projeto colaborativo focado no setor financeiro/investimentos. / Collaborative project focused on the financial/investment sector.
+
+* **[Repositório: Looma](https://github.com/GustavoPrescinotti/Looma)**
+  * **PT/EN:** Aplicação desenvolvida em equipe, testando metodologias ágeis de código e organização. / Application developed jointly, testing agile coding and organization methodologies.
 
 ---
 
 ## Contato / Contact
 
-Se você deseja trocar uma ideia sobre desenvolvimento de sistemas ou falar sobre oportunidades: / *Feel free to reach out to talk about code, jobs, and opportunities!*
+Se você deseja trocar uma ideia sobre desenvolvimento de sistemas ou falar sobre oportunidades:
 
-* [![E-mail Primário](https://img.shields.io/badge/E--mail_Primário-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquefg2612@gmail.com) **caiquefg2612@gmail.com**
-* [![E-mail Secundário](https://img.shields.io/badge/E--mail_Secundário-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquefachinigoncalves@gmail.com) **caiquefachinigoncalves@gmail.com**
-* [![E-mail Terciário](https://img.shields.io/badge/E--mail_Terciário-00599C?style=for-the-badge&logo=microsoftacademic&logoColor=white)](mailto:caique.f.goncalves@aluno.senai.br) **caique.f.goncalves@aluno.senai.br**
+| Classificação | Canal de Contato | Endereço de E-mail |
+| :--- | :--- | :--- |
+| **E-mail Primário** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caiquefg2612@gmail.com) | `caiquefg2612@gmail.com` |
+| **E-mail Secundário** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caiquefachinigoncalves@gmail.com) | `caiquefachinigoncalves@gmail.com` |
+| **E-mail Terciário** | [![Outlook](https://img.shields.io/badge/SENAI-00599C?style=flat-square&logo=microsoftacademic&logoColor=white)](mailto:caique.f.goncalves@aluno.senai.br) | `caique.f.goncalves@aluno.senai.br` |
